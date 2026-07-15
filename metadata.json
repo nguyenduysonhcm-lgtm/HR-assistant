@@ -1,0 +1,8 @@
+{
+  "name": "HR Smart Assistant",
+  "description": "Smart HR Assistant with Admin and Employee panels, contract tracking, tax dependents management, and an AI HR assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
